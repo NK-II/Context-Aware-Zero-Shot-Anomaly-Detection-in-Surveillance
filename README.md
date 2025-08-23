@@ -40,8 +40,7 @@ See `DATASET.md` for setup instructions.
 
 ---
 
-### Repository Structure
-```
+## Repository Structure
 project/
 ├── src/                # Core implementation
 ├── data/               # Split files (kept in repo)
@@ -52,6 +51,7 @@ project/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 ```
 
 ---
@@ -82,5 +82,6 @@ If you use this work, please cite our paper and repository:
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
 
 
