@@ -1,4 +1,4 @@
-# Context-Aware Zero-Shot Anomaly Detection in Surveillance Video
+# Context-Aware Zero-Shot Anomaly Detection in Surveillance Using Contrastive and Predictive Spatiotemporal Modeling
 
 This repository contains the research implementation of our thesis on **Zero-Shot Anomaly Detection** in surveillance video.  
 Our framework integrates **transformer-based spatiotemporal encoding (TimeSformer)**, **predictive coding via DPC-RNN**, and **semantic alignment through CLIP**.  
@@ -59,13 +59,22 @@ project/
 ## Citation
 If you use this work, please cite our paper and repository:
 
+**Paper** (preferred):
 ```bibtex
-@misc{anomaly2025,
-  title   = {Context-Aware Zero-Shot Anomaly Detection in Surveillance Video},
-  author  = {Md. Abrar Hasan and Md. Rashid Shahriar Khan and Mohammod Tareq Aziz Justice},
-  year    = {2025},
-  note    = {GitHub repository},
-  url     = {https://github.com/NK-II/Context-Aware-Zero-Shot-Anomaly-Detection-in-Surveillance}
+@article{anomaly2025,
+  title   = {Context-Aware Zero-Shot Anomaly Detection in Surveillance Using Contrastive and Predictive Spatiotemporal Modeling},
+  author  = {Khan, Md. Rashid Shahriar and Hasan, Md. Abrar and Justice, Mohammod Tareq Aziz},
+  journal = {arXiv preprint arXiv:2508.xxxxx}, 
+  year    = {2025}
+}
+
+**Code** (if you reference the implementation directly):
+@misc{anomaly2025code,
+  title        = {Context-Aware Zero-Shot Anomaly Detection in Surveillance Using Contrastive and Predictive Spatiotemporal Modeling},
+  author       = {Khan, Md. Rashid Shahriar and Hasan, Md. Abrar and Justice, Mohammod Tareq Aziz},
+  year         = {2025},
+  howpublished = {\url{https://github.com/NK-II/Context-Aware-Zero-Shot-Anomaly-Detection-in-Surveillance}},
+  note         = {GitHub repository}
 }
 ```
 
@@ -73,3 +82,4 @@ If you use this work, please cite our paper and repository:
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
