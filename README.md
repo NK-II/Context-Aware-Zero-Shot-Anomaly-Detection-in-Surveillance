@@ -66,7 +66,9 @@ If you use this work, please cite our paper and repository:
   year    = {2025}
 }
 
+```
 **Code** (if you reference the implementation directly):
+```
 @misc{anomaly2025code,
   title        = {Context-Aware Zero-Shot Anomaly Detection in Surveillance Using Contrastive and Predictive Spatiotemporal Modeling},
   author       = {Khan, Md. Rashid Shahriar and Hasan, Md. Abrar and Justice, Mohammod Tareq Aziz},
@@ -80,6 +82,7 @@ If you use this work, please cite our paper and repository:
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
 
 
 
