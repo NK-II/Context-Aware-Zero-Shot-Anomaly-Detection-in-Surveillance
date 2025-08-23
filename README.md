@@ -51,8 +51,6 @@ project/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-```
-```
 
 ---
 
@@ -82,6 +80,7 @@ If you use this work, please cite our paper and repository:
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
 
 
 
