@@ -33,8 +33,8 @@ pip install -r requirements.txt
 ---
 
 ### Dataset
-We use the [UCF-Crime dataset](https://www.kaggle.com/) (Kaggle).  
-- Place raw videos under `videos/` (create the directory & include all the normal vdeos from the dataset and only abnormal/anomalous videos that matches the ones in the val/test text data) (ignored in `.gitignore`).  
+We use the [UCA(UCF Crime Annotation) Dataset](https://www.kaggle.com/datasets/vigneshwar472/ucaucf-crime-annotation-dataset) (Kaggle).  
+- Place raw videos under `videos/` (ignored in `.gitignore`).  
 - Data splits are provided under `data/` (train/val/test lists).  
 See `DATASET.md` for setup instructions.  
 
@@ -82,6 +82,7 @@ If you use this work, please cite our paper and repository:
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
 
 
 
