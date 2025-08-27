@@ -4,7 +4,7 @@ This repository contains the research implementation of our thesis on **Zero-Sho
 Our framework integrates **transformer-based spatiotemporal encoding (TimeSformer)**, **predictive coding via DPC-RNN**, and **semantic alignment through CLIP**.  
 We further employ **context conditioning with FiLM modulation** for scene-aware generalization.  
 
-📄 The full manuscript is included in `docs/paper.pdf`.  
+📄 The full manuscript is included in `[Read the paper on arXiv](https://arxiv.org/abs/2508.18463)`.  
 
 ---
 
@@ -82,6 +82,7 @@ If you use this work, please cite our paper and repository:
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
 
 
 
